@@ -257,4 +257,4 @@ require('fs').watchFile(file, () => {
     delete require.cache[file];
     require(file);
 });
-// Ini buat code pairing kalian kalau mau pake silahkan edit-edit ada auto follow saluran juga di sesuaikan 
+// Ini buat initialization pairing kalian dan buat socket kalau mau pake silahkan edit-edit ada auto follow saluran juga di sesuaikan 
