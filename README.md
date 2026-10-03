@@ -23,4 +23,6 @@ New update :
 - 𝖼𝗈𝖼𝗈𝗄 𝖻𝗎𝖺𝗍 𝖼𝗎𝗌𝗍𝗈𝗆𝖾 𝗉𝖺𝗂𝗋𝗂𝗇𝗀 
 
 Bisa copy langsung di bawah ini :
+```
 "@whiskeysockets/baileys": "npm:alip-baileys@^1.0.2",
+```
