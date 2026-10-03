@@ -1,4 +1,4 @@
-New Baileys Alip Coiii Baru Update
+New Baileys Alip New Update Version 1.0.2
 
 Cara pakai : 
 1. 𝖪𝖾 𝗉𝖺𝖼𝗄𝖺𝗀𝖾.𝗃𝗌𝗈𝗇 
